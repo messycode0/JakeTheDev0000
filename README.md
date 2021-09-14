@@ -6,6 +6,7 @@ hello my name is jacob but you will most likely call me jake.
 
 * C# my fav
 * python
+* lua
 * java
 * javascript... kinda
 
