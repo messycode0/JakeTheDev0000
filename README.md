@@ -5,9 +5,10 @@ hello my name is jacob but you will most likely call me jake.
 # programming languages I know
 
 * C# my fav
+* XMAL (ik its not a programing language but i like it)
 * python
 * lua
-* java
+* java... kinda
 * javascript... kinda
 
 # Q&A
