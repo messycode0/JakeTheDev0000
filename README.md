@@ -1,15 +1,16 @@
 # hello
 
-hello my name is jacob but you will most likely call me jake. 
+hello my name is Jake
 
 # programming languages I know
 
-* C# my fav
-* XMAL (ik its not a programing language but i like it)
+* C# 
+* C
+* C ++
 * python
 * lua
-* java... kinda
-* javascript... kinda
+* java
+* javascript
 
 # Q&A
 This will be updated
@@ -17,13 +18,16 @@ This will be updated
 of course. I love useing Git and GIthub
 
 ## what do you use for your text editor?
-VS code aka ' Visual Studio Code '
+* vscode
+* visual studio -- i dont like it tho
+* vim/nvim
+* intellaj idea -- for java
 
 ## what was your first language?
 Javascript but I really started coding at python
 
 ## are you open to work on projects?
-YES! I would love to, but I do have alot of school but i will try.
+YES! I would love to
 
 # how can I contect you?
 I have discord its **jakeplays#8149** I will try to answer but if I dont its not because I dont care about you its because I did not see it :D
