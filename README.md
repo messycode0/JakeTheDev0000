@@ -22,6 +22,7 @@ of course. I love useing Git and GIthub
 * visual studio -- i dont like it tho
 * vim/nvim
 * intellaj idea -- for java
+* pycharm -- for python
 
 ## what was your first language?
 Javascript but I really started coding at python
